@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 pydantic
+pymongo
 langchain
 langchain_community
 langchain-core
